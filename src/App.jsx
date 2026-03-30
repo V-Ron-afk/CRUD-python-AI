@@ -15,7 +15,7 @@ const styles = `
   :root {
     --bg: #f5f2eb;
     --surface: #fffdf8;
-    --ink: #1a1612;
+    --ink: #1a1619;
     --ink2: #6b5f52;
     --accent: #e84c1e;
     --accent2: #f5a623;
